@@ -1,0 +1,17 @@
+species_model_name,ebird_code,lag_weeks,n_chains,n_individuals,median_sum_distance_km,median_movement_steps_gt1km,baseline,median_chain_log_gain,pct_tuned_better,sign_test_p
+Calidris tenuirostris,grekno,2,2,2,1818.4418644203677,2.0,random,1.100174422681401,50.0,1.0
+Calidris tenuirostris,grekno,2,2,2,1818.4418644203677,2.0,distance_only,0.2870638114884425,50.0,1.0
+Calidris tenuirostris,grekno,2,2,2,1818.4418644203677,2.0,time_shuffled_13wk,1370.1330789904728,100.0,0.5
+Calidris tenuirostris,grekno,2,2,2,1818.4418644203677,2.0,season_shuffled_26wk,683.7092505806021,50.0,1.0
+Limosa lapponica,batgod,2,3,3,861.7791442369387,2.0,random,0.2992828347538374,66.66666666666666,1.0
+Limosa lapponica,batgod,2,3,3,861.7791442369387,2.0,distance_only,-1.5347098690248746,33.33333333333333,1.0
+Limosa lapponica,batgod,2,3,3,861.7791442369387,2.0,time_shuffled_13wk,1367.6013839442476,66.66666666666666,1.0
+Limosa lapponica,batgod,2,3,3,861.7791442369387,2.0,season_shuffled_26wk,1367.6013839442476,100.0,0.25
+Numenius madagascariensis,faecur,2,151,6,0.0,0.0,random,4.289037425308361,88.0794701986755,7.322317539663456e-23
+Numenius madagascariensis,faecur,2,151,6,0.0,0.0,distance_only,-0.3090906402454223,43.04635761589404,0.1033001364477295
+Numenius madagascariensis,faecur,2,151,6,0.0,0.0,time_shuffled_13wk,-0.0987034807103346,46.35761589403973,0.4158554937643094
+Numenius madagascariensis,faecur,2,151,6,0.0,0.0,season_shuffled_26wk,0.1822646724631074,52.31788079470199,0.6255036238897121
+Numenius madagascariensis,faecur,3,78,6,0.0,0.0,random,5.65926621919168,85.8974358974359,6.11831045524052e-11
+Numenius madagascariensis,faecur,3,78,6,0.0,0.0,distance_only,-1.2043778404857486,23.07692307692308,1.9730209111390334e-06
+Numenius madagascariensis,faecur,3,78,6,0.0,0.0,time_shuffled_13wk,0.3616914415456298,53.84615384615385,0.5715867180030725
+Numenius madagascariensis,faecur,3,78,6,0.0,0.0,season_shuffled_26wk,1.6143748809006402,60.256410256410255,0.08878242522208

@@ -1,0 +1,9 @@
+﻿item,status,comment
+Route reconstruction removed,PASS,"Title/abstract/methods must use population-flow support, not route reconstruction."
+Distance-only limitation acknowledged,PASS,Distance-only remains a strong movement baseline.
+Decision leverage over distance-only,PASS,Bootstrap CI for tuned-minus-distance node-removal and protection-gain is positive.
+Tuned better than season-shuffled,FAIL_AS_CLAIM,Do not claim; season-shuffled often equals/exceeds tuned.
+External validation,PARTIAL_PASS,Designation overlap + partial count plausibility + radius sensitivity.
+Gap nodes,PARTIAL_PASS,"21/62 plausible; 32/62 high-uncertainty or artifact-risk. Must write as audit, not confirmed sites."
+Mechanism,PARTIAL_PASS,Correlational ecological interpretability only.
+Q1 readiness,CONDITIONAL_PASS,Can target Q1 if claims remain conservative and gap-node audit is transparent.

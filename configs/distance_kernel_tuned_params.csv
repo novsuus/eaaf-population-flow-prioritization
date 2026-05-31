@@ -1,0 +1,4 @@
+ebird_code,species_model_name,tau_km,max_distance_km,max_target_cells,support_threshold_km,n_pairs,edge_found_rate,mean_log_prob_gain,median_log_prob_gain
+batgod,Limosa lapponica,500,2500,900,1000,30,100.0,0.5435805453684489,0.4340116800876565
+faecur,Numenius madagascariensis,500,8000,900,1000,1396,100.0,2.0612593882099453,1.8944204798430464
+grekno,Calidris tenuirostris,500,8000,900,1000,42,100.0,0.5582708217354636,0.5554834814084242

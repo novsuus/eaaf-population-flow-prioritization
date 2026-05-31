@@ -1,0 +1,13 @@
+model,species_model_name,ebird_code,n_pairs,n_individuals,selected_parameter,parameter_value,mean_log_gain_vs_static,median_log_gain_vs_static,pct_positive,delta_mean_vs_tuned_distance,delta_median_vs_tuned_distance,interpretation
+tuned_distance,Calidris tenuirostris,grekno,9,6,tau/maxdist from individual calibration,,1.004532516409669,1.0221943835624367,55.55555555555556,0.0,0.0,formal_strong_baseline
+tuned_distance,Limosa lapponica,batgod,9,5,tau/maxdist from individual calibration,,0.8499036559944151,0.7150228553331264,77.77777777777779,0.0,0.0,formal_strong_baseline
+tuned_distance,Numenius madagascariensis,faecur,267,6,tau/maxdist from individual calibration,,2.42678715052894,2.058218637052569,93.25842696629212,0.0,0.0,formal_strong_baseline
+static_wetland_cost_v1,Calidris tenuirostris,grekno,9,6,beta_wetland_cost,0.0,1.2490921577086709,1.024758597713757,55.55555555555556,0.2445596412990018,0.0025642141513202,possible_gain_but_check_sample_size
+static_wetland_cost_v1,Limosa lapponica,batgod,9,5,beta_wetland_cost,0.0,0.857896258980627,0.7047083275080093,77.77777777777779,0.0079926029862119,-0.0103145278251171,no_material_gain_beyond_tuned_distance
+static_wetland_cost_v1,Numenius madagascariensis,faecur,267,6,beta_wetland_cost,0.0,2.4090818291302294,2.030989221737436,92.88389513108616,-0.0177053213987106,-0.0272294153151331,no_material_gain_beyond_tuned_distance
+monthly_wetland_cost_v2,Calidris tenuirostris,grekno,9,6,beta_monthly_wetland_cost,0.0,1.2490921577086709,1.024758597713757,55.55555555555556,0.2445596412990018,0.0025642141513202,possible_gain_but_check_sample_size
+monthly_wetland_cost_v2,Limosa lapponica,batgod,9,5,beta_monthly_wetland_cost,0.25,0.8588896573926339,0.7572365924714761,77.77777777777779,0.0089860013982188,0.0422137371383497,no_material_gain_beyond_tuned_distance
+monthly_wetland_cost_v2,Numenius madagascariensis,faecur,267,6,beta_monthly_wetland_cost,0.0,2.4090818291302294,2.030989221737436,92.88389513108616,-0.0177053213987106,-0.0272294153151331,no_material_gain_beyond_tuned_distance
+monthly_wind_cost_v1,Calidris tenuirostris,grekno,9,6,gamma_wind_assist,0.0,1.2490921577086709,1.024758597713757,55.55555555555556,0.2445596412990018,0.0025642141513202,possible_gain_but_check_sample_size
+monthly_wind_cost_v1,Limosa lapponica,batgod,9,5,gamma_wind_assist,0.0,0.857896258980627,0.7047083275080093,77.77777777777779,0.0079926029862119,-0.0103145278251171,no_material_gain_beyond_tuned_distance
+monthly_wind_cost_v1,Numenius madagascariensis,faecur,267,6,gamma_wind_assist,0.0,2.4090818291302294,2.030989221737436,92.88389513108616,-0.0177053213987106,-0.0272294153151331,no_material_gain_beyond_tuned_distance

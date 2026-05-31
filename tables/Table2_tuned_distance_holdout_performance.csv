@@ -1,0 +1,4 @@
+species_model_name,ebird_code,n_pairs,n_individuals,edge_found_rate,mean_log_prob_gain,median_log_prob_gain,q25_log_prob_gain,q75_log_prob_gain
+Calidris tenuirostris,grekno,9,6,100.0,1.004532516409669,1.0221943835624367,-0.6173669745796069,2.543600018234862
+Limosa lapponica,batgod,9,5,100.0,0.8499036559944151,0.7150228553331264,0.3811284641729022,1.7047088249947793
+Numenius madagascariensis,faecur,267,6,100.0,2.42678715052894,2.058218637052569,1.192820368308154,4.2979354612488185

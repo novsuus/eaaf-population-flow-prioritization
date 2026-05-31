@@ -1,0 +1,19 @@
+       species_model_name ebird_code  top_k  n_nodes  n_nodes_with_known_site  hit_rate_pct  median_total_incoming_flow  max_total_incoming_flow  median_distance_to_known_site_km
+    Calidris tenuirostris     grekno     25       25                        8     32.000000                 1390.917225              2786.044549                         35.993011
+    Calidris tenuirostris     grekno     50       50                       11     22.000000                  921.956703              2786.044549                         35.679838
+    Calidris tenuirostris     grekno    100      100                       21     21.000000                  644.847152              2786.044549                         35.415957
+    Calidris tenuirostris     grekno    150      150                       29     19.333333                  443.807377              2786.044549                         35.415957
+    Calidris tenuirostris     grekno    200      200                       36     18.000000                  313.576063              2786.044549                         33.188388
+    Calidris tenuirostris     grekno    300      300                       41     13.666667                  172.328021              2786.044549                         33.942644
+         Limosa lapponica     batgod     25       25                        8     32.000000                  809.891784              1915.317317                         35.547898
+         Limosa lapponica     batgod     50       50                       14     28.000000                  578.105489              1915.317317                         35.547898
+         Limosa lapponica     batgod    100      100                       24     24.000000                  319.830060              1915.317317                         34.679301
+         Limosa lapponica     batgod    150      150                       34     22.666667                  211.151405              1915.317317                         34.679301
+         Limosa lapponica     batgod    200      200                       40     20.000000                  159.632598              1915.317317                         33.400900
+         Limosa lapponica     batgod    300      300                       46     15.333333                   77.026643              1915.317317                         33.400900
+Numenius madagascariensis     faecur     25       25                        4     16.000000                  445.248676               731.941955                         36.302721
+Numenius madagascariensis     faecur     50       50                        6     12.000000                  295.994947               731.941955                         36.302721
+Numenius madagascariensis     faecur    100      100                       15     15.000000                  186.489680               731.941955                         33.942644
+Numenius madagascariensis     faecur    150      150                       24     16.000000                  115.980574               731.941955                         33.188388
+Numenius madagascariensis     faecur    200      200                       33     16.500000                   72.686820               731.941955                         30.449888
+Numenius madagascariensis     faecur    300      300                       46     15.333333                   31.051380               731.941955                         30.800572

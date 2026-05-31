@@ -1,0 +1,4 @@
+       species_model_name ebird_code  n_pairs  n_individuals  edge_found_rate  mean_log_prob_gain  median_log_prob_gain  q25_log_prob_gain  q75_log_prob_gain
+    Calidris tenuirostris     grekno        9              6            100.0            1.004533              1.022194          -0.617367           2.543600
+         Limosa lapponica     batgod        9              5            100.0            0.849904              0.715023           0.381128           1.704709
+Numenius madagascariensis     faecur      267              6            100.0            2.426787              2.058219           1.192820           4.297935

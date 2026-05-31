@@ -1,0 +1,7 @@
+       species_model_name ebird_code  n_nodes  n_known_overlap  known_overlap_rate  min_distance_to_poyang_center_km  median_distance_to_poyang_center_km  max_validation_score  max_conservation_score             region
+    Calidris tenuirostris     grekno       40               13           32.500000                        414.332636                           561.317267              0.419500                0.524374   east_china_coast
+         Limosa lapponica     batgod       36               13           36.111111                        417.341401                           579.619105              0.415188                0.518984   east_china_coast
+Numenius madagascariensis     faecur       33               13           39.393939                        433.199553                           592.672593              0.286557                0.358197   east_china_coast
+    Calidris tenuirostris     grekno       57               12           21.052632                        312.028668                           532.781617              0.435997                0.544997 yangtze_east_coast
+         Limosa lapponica     batgod       46               12           26.086957                        417.341401                           545.385360              0.433487                0.541858 yangtze_east_coast
+Numenius madagascariensis     faecur       39               12           30.769231                        433.199553                           556.991241              0.290606                0.363258 yangtze_east_coast

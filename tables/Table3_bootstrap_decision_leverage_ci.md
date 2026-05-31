@@ -1,0 +1,26 @@
+# Table 3. Bootstrap confidence intervals for decision-leverage metrics
+
+| Region                   | Species code   | Model                 | Metric                             | Mean [95% CI]     |   Bootstrap replicates |   Top fraction |
+|:-------------------------|:---------------|:----------------------|:-----------------------------------|:------------------|-----------------------:|---------------:|
+| East China Coast         | faecur         | Tuned                 | Node-removal flow loss (%)         | 42.7 [40.9, 45.0] |                   2000 |            0.1 |
+| East China Coast         | faecur         | Tuned                 | Protection-gain flow support (%)   | 81.5 [80.1, 83.3] |                   2000 |            0.1 |
+| East China Coast         | faecur         | Distance-only         | Node-removal flow loss (%)         | 17.0 [15.6, 18.8] |                   2000 |            0.1 |
+| East China Coast         | faecur         | Distance-only         | Protection-gain flow support (%)   | 60.9 [59.8, 62.4] |                   2000 |            0.1 |
+| East China Coast         | faecur         | Abundance-only        | Node-removal flow loss (%)         | 42.0 [37.9, 47.3] |                   2000 |            0.1 |
+| East China Coast         | faecur         | Abundance-only        | Protection-gain flow support (%)   | 81.7 [79.8, 83.8] |                   2000 |            0.1 |
+| East China Coast         | faecur         | Season-shuffled       | Node-removal flow loss (%)         | 48.5 [40.2, 54.6] |                   2000 |            0.1 |
+| East China Coast         | faecur         | Season-shuffled       | Protection-gain flow support (%)   | 84.5 [81.6, 87.8] |                   2000 |            0.1 |
+| East China Coast         | faecur         | Tuned − Distance-only | Δ node-removal flow loss (%)       | 25.7 [23.3, 28.3] |                   2000 |            0.1 |
+| East China Coast         | faecur         | Tuned − Distance-only | Δ protection-gain flow support (%) | 20.6 [18.5, 22.7] |                   2000 |            0.1 |
+| Yangtze–East China Coast | faecur         | Tuned                 | Node-removal flow loss (%)         | 47.9 [45.3, 50.9] |                   2000 |            0.1 |
+| Yangtze–East China Coast | faecur         | Tuned                 | Protection-gain flow support (%)   | 80.2 [78.3, 82.1] |                   2000 |            0.1 |
+| Yangtze–East China Coast | faecur         | Distance-only         | Node-removal flow loss (%)         | 17.1 [15.4, 19.1] |                   2000 |            0.1 |
+| Yangtze–East China Coast | faecur         | Distance-only         | Protection-gain flow support (%)   | 57.3 [55.0, 59.8] |                   2000 |            0.1 |
+| Yangtze–East China Coast | faecur         | Abundance-only        | Node-removal flow loss (%)         | 42.7 [39.1, 47.4] |                   2000 |            0.1 |
+| Yangtze–East China Coast | faecur         | Abundance-only        | Protection-gain flow support (%)   | 79.6 [76.8, 82.5] |                   2000 |            0.1 |
+| Yangtze–East China Coast | faecur         | Season-shuffled       | Node-removal flow loss (%)         | 50.1 [42.1, 57.0] |                   2000 |            0.1 |
+| Yangtze–East China Coast | faecur         | Season-shuffled       | Protection-gain flow support (%)   | 83.7 [80.1, 87.6] |                   2000 |            0.1 |
+| Yangtze–East China Coast | faecur         | Tuned − Distance-only | Δ node-removal flow loss (%)       | 30.8 [27.5, 34.4] |                   2000 |            0.1 |
+| Yangtze–East China Coast | faecur         | Tuned − Distance-only | Δ protection-gain flow support (%) | 22.9 [19.7, 25.9] |                   2000 |            0.1 |
+
+Note: Values are weekly-bootstrap means with 95% confidence intervals. Δ rows compare tuned priority with distance-only priority.

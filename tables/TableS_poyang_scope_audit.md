@@ -1,0 +1,19 @@
+       region_name  lon_min  lon_max  lat_min  lat_max        species_model_name ebird_code  n_nodes_in_region  n_weeks_sum  total_incoming_flow_sum  max_total_incoming_flow  median_total_incoming_flow
+       poyang_core    115.6    116.8     28.3     30.2     Calidris tenuirostris     grekno                  0            0                 0.000000                      NaN                         NaN
+       poyang_core    115.6    116.8     28.3     30.2          Limosa lapponica     batgod                  0            0                 0.000000                      NaN                         NaN
+       poyang_core    115.6    116.8     28.3     30.2 Numenius madagascariensis     faecur                  0            0                 0.000000                      NaN                         NaN
+   poyang_extended    115.2    117.2     28.0     30.4     Calidris tenuirostris     grekno                  0            0                 0.000000                      NaN                         NaN
+   poyang_extended    115.2    117.2     28.0     30.4          Limosa lapponica     batgod                  0            0                 0.000000                      NaN                         NaN
+   poyang_extended    115.2    117.2     28.0     30.4 Numenius madagascariensis     faecur                  0            0                 0.000000                      NaN                         NaN
+  poyang_superwide    114.5    118.0     27.5     31.0     Calidris tenuirostris     grekno                  0            0                 0.000000                      NaN                         NaN
+  poyang_superwide    114.5    118.0     27.5     31.0          Limosa lapponica     batgod                  0            0                 0.000000                      NaN                         NaN
+  poyang_superwide    114.5    118.0     27.5     31.0 Numenius madagascariensis     faecur                  0            0                 0.000000                      NaN                         NaN
+     yangtze_lakes    111.0    118.5     27.5     31.5     Calidris tenuirostris     grekno                  0            0                 0.000000                      NaN                         NaN
+     yangtze_lakes    111.0    118.5     27.5     31.5          Limosa lapponica     batgod                  0            0                 0.000000                      NaN                         NaN
+     yangtze_lakes    111.0    118.5     27.5     31.5 Numenius madagascariensis     faecur                  0            0                 0.000000                      NaN                         NaN
+yangtze_east_coast    110.0    123.5     26.0     33.5     Calidris tenuirostris     grekno                 57          672              6619.239614              1176.899556                    8.207505
+yangtze_east_coast    110.0    123.5     26.0     33.5          Limosa lapponica     batgod                 46          695              3706.472360               809.891784                   20.951374
+yangtze_east_coast    110.0    123.5     26.0     33.5 Numenius madagascariensis     faecur                 39          748               705.628807               148.619932                    4.965660
+  east_china_coast    119.0    123.8     29.5     34.0     Calidris tenuirostris     grekno                 40          618              7156.445143              1176.899556                   77.073327
+  east_china_coast    119.0    123.8     29.5     34.0          Limosa lapponica     batgod                 36          665              4039.419196               809.891784                   74.322943
+  east_china_coast    119.0    123.8     29.5     34.0 Numenius madagascariensis     faecur                 33          748               790.274691               148.619932                   17.118863

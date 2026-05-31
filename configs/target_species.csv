@@ -1,0 +1,11 @@
+priority_group,common_name,scientific_name,ebird_code_hint,main_role,validation_priority,notes
+shorebird_core,Far Eastern Curlew,Numenius madagascariensis,,tracking_validation,HIGH,"OBIS/CSIRO public GPS tracking dataset; excellent first independent validation species"
+shorebird_core,Great Knot,Calidris tenuirostris,,stopover_validation,HIGH,"OBIS/CSIRO public stopping-site dataset; good for stopover hit-rate validation"
+shorebird_core,Bar-tailed Godwit,Limosa lapponica,,stopover_validation,HIGH,"OBIS/CSIRO public stopping-site dataset; good for EAAF coastal corridor"
+shorebird_extension,Red Knot,Calidris canutus,,model_extension,MEDIUM,"Good shorebird contrast if eBird S&T coverage is adequate"
+inland_wetland_core,Swan Goose,Anser cygnoides,,poyang_application,HIGH,"Strong link to Yangtze/Poyang wintering; tracking exists in literature but raw data may need request"
+inland_wetland_core,Greater White-fronted Goose,Anser albifrons,,poyang_application,MEDIUM,"Common enough for eBird/GBIF; useful comparison species"
+inland_wetland_core,Oriental Stork,Ciconia boyciana,,poyang_application,MEDIUM,"High conservation relevance; tracking literature exists, raw data availability uncertain"
+inland_wetland_core,Siberian Crane,Leucogeranus leucogeranus,,poyang_application,MEDIUM,"High Poyang relevance; GPS tracking papers exist, raw tracks may not be open"
+inland_wetland_extension,Hooded Crane,Grus monacha,,poyang_application,LOW,"Useful if occurrence coverage is adequate"
+inland_wetland_extension,White-naped Crane,Antigone vipio,,poyang_application,LOW,"Useful if occurrence coverage is adequate"

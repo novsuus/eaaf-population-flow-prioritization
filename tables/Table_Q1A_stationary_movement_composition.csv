@@ -1,0 +1,12 @@
+species_model_name,ebird_code,movement_class,n_pairs,n_individuals,median_distance_km,pct_of_species_pairs
+Calidris tenuirostris,grekno,local_movement_1_500km,1,1,131.82756885709432,11.11111111111111
+Calidris tenuirostris,grekno,long_movement_1500_3000km,3,3,1883.7655499319271,33.33333333333333
+Calidris tenuirostris,grekno,medium_movement_500_1500km,5,4,1093.8596725678958,55.55555555555556
+Limosa lapponica,batgod,local_movement_1_500km,3,2,403.26033098557815,33.33333333333333
+Limosa lapponica,batgod,medium_movement_500_1500km,5,4,839.2501750639564,55.55555555555556
+Limosa lapponica,batgod,stationary_same_grid_<=1km,1,1,0.0,11.11111111111111
+Numenius madagascariensis,faecur,local_movement_1_500km,45,5,58.57895699643276,16.853932584269664
+Numenius madagascariensis,faecur,long_movement_1500_3000km,2,2,1813.9741135960485,0.7490636704119851
+Numenius madagascariensis,faecur,medium_movement_500_1500km,14,5,871.3598624565619,5.243445692883896
+Numenius madagascariensis,faecur,stationary_same_grid_<=1km,196,6,0.0,73.40823970037454
+Numenius madagascariensis,faecur,very_long_movement_>3000km,10,6,4791.228747013098,3.745318352059925

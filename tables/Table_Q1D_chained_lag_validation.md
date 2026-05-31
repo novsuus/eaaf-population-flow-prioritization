@@ -1,0 +1,17 @@
+       species_model_name ebird_code  lag_weeks  n_chains  n_individuals  median_sum_distance_km  median_movement_steps_gt1km             baseline  median_chain_log_gain  pct_tuned_better  sign_test_p
+    Calidris tenuirostris     grekno          2         2              2             1818.441864                          2.0               random               1.100174         50.000000 1.000000e+00
+    Calidris tenuirostris     grekno          2         2              2             1818.441864                          2.0        distance_only               0.287064         50.000000 1.000000e+00
+    Calidris tenuirostris     grekno          2         2              2             1818.441864                          2.0   time_shuffled_13wk            1370.133079        100.000000 5.000000e-01
+    Calidris tenuirostris     grekno          2         2              2             1818.441864                          2.0 season_shuffled_26wk             683.709251         50.000000 1.000000e+00
+         Limosa lapponica     batgod          2         3              3              861.779144                          2.0               random               0.299283         66.666667 1.000000e+00
+         Limosa lapponica     batgod          2         3              3              861.779144                          2.0        distance_only              -1.534710         33.333333 1.000000e+00
+         Limosa lapponica     batgod          2         3              3              861.779144                          2.0   time_shuffled_13wk            1367.601384         66.666667 1.000000e+00
+         Limosa lapponica     batgod          2         3              3              861.779144                          2.0 season_shuffled_26wk            1367.601384        100.000000 2.500000e-01
+Numenius madagascariensis     faecur          2       151              6                0.000000                          0.0               random               4.289037         88.079470 7.322318e-23
+Numenius madagascariensis     faecur          2       151              6                0.000000                          0.0        distance_only              -0.309091         43.046358 1.033001e-01
+Numenius madagascariensis     faecur          2       151              6                0.000000                          0.0   time_shuffled_13wk              -0.098703         46.357616 4.158555e-01
+Numenius madagascariensis     faecur          2       151              6                0.000000                          0.0 season_shuffled_26wk               0.182265         52.317881 6.255036e-01
+Numenius madagascariensis     faecur          3        78              6                0.000000                          0.0               random               5.659266         85.897436 6.118310e-11
+Numenius madagascariensis     faecur          3        78              6                0.000000                          0.0        distance_only              -1.204378         23.076923 1.973021e-06
+Numenius madagascariensis     faecur          3        78              6                0.000000                          0.0   time_shuffled_13wk               0.361691         53.846154 5.715867e-01
+Numenius madagascariensis     faecur          3        78              6                0.000000                          0.0 season_shuffled_26wk               1.614375         60.256410 8.878243e-02
